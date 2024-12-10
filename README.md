@@ -1,6 +1,6 @@
 # Blurry Loading effect
 
-![cover](./assets/blurry.gif)
+![cover](.photo.avif)
 
 ## 🦉 Main information
 
